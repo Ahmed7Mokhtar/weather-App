@@ -2,6 +2,7 @@
 # Offers features such as current weather conditions, hourly forecasts, and 5-day forecasts. It also provides information on humidity, visibility, and pressure.
 # Integration with OpenWeather API.
 # Weather-App is a Simple weather website that was built using HTML, CSS, and JavaScript.
+# Responsive design that is optimized for desktops, tablets, and mobile phones, providing the best user interface across all devices.
 
 
 
