@@ -1,7 +1,7 @@
-# weather-App is a smiple weather website in which user can get the weather in his location and in many other places.
+# Weather-App is a simple weather website that allows users to check the weather in their current location, as well as in many other places.
+# Offers features such as current weather conditions, hourly forecasts, and 5-day forecasts. It also provides information on humidity, visibility, and pressure.
 # Integration with OpenWeather API.
-# used HTML, CSS, Javascript to build the website.
-# Check the link to the website here 
+# Weather-App is a Simple weather website that was built using HTML, CSS, and JavaScript.
 
 
 
@@ -11,4 +11,6 @@
 ![Screenshot (32)](https://user-images.githubusercontent.com/55771788/232377069-a59f0888-b4e7-405b-afc7-0a3b38a8fd5e.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/55771788/232377071-e696ee27-03a1-4bb4-9892-404c7536880e.png)
 
+
+# Check the link to the website here 
 # https://ahmed-mokhtar-147c5d.netlify.app/
