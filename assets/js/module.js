@@ -55,7 +55,7 @@ export const getTime = (timeUnix, timezone) => {
 // dateUnix: unit date in seconds
 // timezone: timezone shift from utc in seconds
 export const getHours = (timeUnix, timezone) => {
-    const date = new Date((timeUnix * timezone) * 1000);
+    const date = new Date((timeUnix + timezone) * 1000);
     const hours = date.getUTCHours();
     const period = hours >= 12 ? "PM" : "AM";
 
